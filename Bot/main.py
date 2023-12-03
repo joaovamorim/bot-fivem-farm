@@ -1,6 +1,7 @@
 
 import discord
 from discord.ext import commands
+# Codigo do BOT no SquareCloud
 
 intents = discord.Intents.default()
 intents.messages = True  # Ativar a intenção de mensagen
